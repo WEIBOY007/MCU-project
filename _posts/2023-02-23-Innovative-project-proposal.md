@@ -23,8 +23,8 @@ This homework is to propose an innovative project and describe the key features,
 ## 家用料理機器人影片範例
 <iframe width="1239" height="697" src="https://www.youtube.com/embed/HOEtYI4aOcE" title="美善品一台五萬三！網友激推但我無法的Thermomix｜比Vitamix好用嗎？" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 家用料理機器人影片範例
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mi.com%2Fshop%2Fbuy%3Fproduct_id%3D1223400017%26cfrom%3Dsearch&psig=AOvVaw3GL8mSYSVsJ8585KPs5cj7&ust=1677245024715000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMC44ODeq_0CFQAAAAAdAAAAABAG)
+## 藍芽遙控機器人
+![](https://github.com/WEIBOY007/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
 ---
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
