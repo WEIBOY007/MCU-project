@@ -20,8 +20,8 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 家用料理機器人影片範例
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/HOEtYI4aOcE" title="美善品一台五萬三！網友激推但我無法的Thermomix｜比Vitamix好用嗎？" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 影片範例
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/p-JzjCtS8FQ" title="史上最像人类的机器人！马斯克的预言：人类最终毁于人工智能？（Ameca)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 藍芽遙控機器人
 ![](https://github.com/WEIBOY007/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
